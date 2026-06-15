@@ -1,0 +1,16 @@
+{
+  "slug": "demo-madrid-asesoria-lexsa",
+  "brand": "LEX S.A.",
+  "sector": "asesoria tecnico-juridica",
+  "city": "Madrid",
+  "source_url": "https://lexsa.es/",
+  "public_contact_email": "pablo@lexsa.es",
+  "public_contact_type": "email publico en oferta de trabajo; contacto general lex@lexsa.es",
+  "phone": "91 700 40 20",
+  "price": "1.650 EUR",
+  "weakness": "La autoridad de una firma de 1975 queda tapada por menus duplicados, modulos de login y textos tecnicos como 'Please select your page'.",
+  "value_signal": "Firma lider para residencias, universidades, centros educativos, diocesis, fundaciones y entidades religiosas.",
+  "demo_url": null,
+  "github_url": null,
+  "outreach_status": "drafted_not_sent"
+}
