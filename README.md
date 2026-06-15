@@ -12,3 +12,8 @@ Punto debil trabajado:
 La autoridad de una firma de 1975 queda tapada por menus duplicados, modulos de login y textos tecnicos como 'Please select your page'.
 
 Stack: HTML estatico, CSS embebido y vercel.json para despliegue en Vercel.
+
+## Publicacion
+
+- GitHub: https://github.com/AlfonsoCifuentes/demo-madrid-asesoria-lexsa
+- Vercel: https://demo-madrid-asesoria-lexsa.vercel.app

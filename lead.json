@@ -10,7 +10,7 @@
   "price": "1.650 EUR",
   "weakness": "La autoridad de una firma de 1975 queda tapada por menus duplicados, modulos de login y textos tecnicos como 'Please select your page'.",
   "value_signal": "Firma lider para residencias, universidades, centros educativos, diocesis, fundaciones y entidades religiosas.",
-  "demo_url": null,
-  "github_url": null,
+  "demo_url": "https://demo-madrid-asesoria-lexsa.vercel.app",
+  "github_url": "https://github.com/AlfonsoCifuentes/demo-madrid-asesoria-lexsa",
   "outreach_status": "drafted_not_sent"
 }

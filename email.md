@@ -4,7 +4,7 @@
 - Contact type: email publico en oferta de trabajo; contacto general lex@lexsa.es
 - Subject: LEX S.A.: demo para que la web transmita la solidez de la firma
 - Proposed price: 1.650 EUR
-- Demo: {{VERCEL_URL}}
+- Demo: https://demo-madrid-asesoria-lexsa.vercel.app
 - Source: https://lexsa.es/
 
 Hola Pablo,
@@ -14,7 +14,7 @@ He revisado la web de LEX S.A. y me ha llamado la atencion el contraste: la firm
 Algunos detalles concretos perjudican la percepcion: textos tipo "Please select your page", modulos de login visibles, noticias antiguas mezcladas con avisos actuales y demasiadas rutas antes de entender la propuesta de valor.
 
 He preparado una demo de portal institucional:
-{{VERCEL_URL}}
+https://demo-madrid-asesoria-lexsa.vercel.app
 
 La idea es que LEX parezca lo que ya es: una asesoria tecnico-juridica seria, con departamentos claros, acceso cliente ordenado y avisos como VeriFactu explicados de forma accionable.
 
