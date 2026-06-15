@@ -12,5 +12,9 @@
   "value_signal": "Firma lider para residencias, universidades, centros educativos, diocesis, fundaciones y entidades religiosas.",
   "demo_url": "https://demo-madrid-asesoria-lexsa.vercel.app",
   "github_url": "https://github.com/AlfonsoCifuentes/demo-madrid-asesoria-lexsa",
-  "outreach_status": "drafted_not_sent"
+  "outreach_status": "queued_pending",
+  "outreach_queue_id": "hermes-webdemo-20260615-009",
+  "outreach_version": "hermes-prepared-custom-v1-20260615",
+  "outreach_contact_type": "email publico en oferta de trabajo; contacto general lex@lexsa.es",
+  "proposed_price": "1.650 EUR"
 }
